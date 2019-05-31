@@ -1,0 +1,2 @@
+# SimpleArraySumHackerrank
+SimpleArraySumSolution
